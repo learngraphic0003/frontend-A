@@ -5,6 +5,7 @@ import axios from 'axios';
 import projectData from '../data/project.json';
 import { Footer } from '../components/Footer';
 import Navbar from '../components/Navbar';
+import { Server } from '../constant/constant';
 
 const avatarImages = [
   '/avatar/avatar1.jpg',
@@ -21,7 +22,7 @@ const ViewProject = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get('http://localhost:8000/api/projects/all', {
+        const response = await axios.get(`${Server}/api/projects/all`, {
           withCredentials: true,
         });
         const backendProjects = response.data.map((p) => ({
