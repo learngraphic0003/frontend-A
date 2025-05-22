@@ -1,0 +1,302 @@
+[
+  {
+    "username": "dev_wizard",
+    "userimage": "https://example.com/users/dev_wizard.jpg",
+    "description": "A full-stack MERN blog app with authentication and admin panel.",
+    "price": 49.99,
+    "projectname": "MERN Blog App",
+    "video": "https://example.com/videos/mern-blog.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/mern-blog.zip"
+    },
+    "projectimage": "/projectImage/project1.jpg",
+    "status": "complete",
+    "tags": ["react", "express", "mongodb", "node.js"]
+  },
+  {
+    "username": "codeQueen",
+    "userimage": "https://example.com/users/codeQueen.png",
+    "description": "Portfolio website with smooth animations and contact form.",
+    "price": 19.99,
+    "projectname": "Personal Portfolio",
+    "video": "https://example.com/videos/portfolio.mp4",
+    "file": {
+      "type": "pdf",
+      "url": "https://example.com/files/portfolio.pdf"
+    },
+    "projectimage": "/projectImage/project2.jpg",
+    "status": "complete",
+    "tags": ["html", "css", "javascript"]
+  },
+  {
+    "username": "techieJoe",
+    "userimage": "https://example.com/users/joe.jpg",
+    "description": "E-commerce site backend built with Express and MongoDB.",
+    "price": 59.99,
+    "projectname": "E-Commerce Backend",
+    "video": "https://example.com/videos/ecom-backend.mp4",
+    "file": {
+      "type": "docx",
+      "url": "https://example.com/files/ecom-backend.docx"
+    },
+    "projectimage": "/projectImage/project3.jpg",
+    "status": "incomplete",
+    "tags": ["express", "mongodb", "rest api"]
+  },
+  {
+    "username": "frontendFreak",
+    "userimage": "https://example.com/users/front.jpg",
+    "description": "To-do app with local storage and theme switcher.",
+    "price": 9.99,
+    "projectname": "To-Do App",
+    "video": "https://example.com/videos/todo-app.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/todo-app.zip"
+    },
+    "projectimage": "/projectImage/project4.jpg",
+    "status": "complete",
+    "tags": ["react", "tailwind"]
+  },
+  {
+    "username": "cloudDev",
+    "userimage": "https://example.com/users/cloudDev.png",
+    "description": "Real-time chat app using Socket.IO and React.",
+    "price": 79.99,
+    "projectname": "Chat App",
+    "video": "https://example.com/videos/chat-app.mp4",
+    "file": {
+      "type": "pdf",
+      "url": "https://example.com/files/chat-app.pdf"
+    },
+    "projectimage": "/projectImage/project5.jpg",
+    "status": "complete",
+    "tags": ["socket.io", "react", "node.js"]
+  },
+  {
+    "username": "designNinja",
+    "userimage": "https://example.com/users/design.png",
+    "description": "Landing page design using Figma exported to code.",
+    "price": 29.99,
+    "projectname": "Landing Page",
+    "video": "https://example.com/videos/landing-page.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/landing-page.zip"
+    },
+    "projectimage": "/projectImage/project6.jpg",
+    "status": "complete",
+    "tags": ["figma", "html", "tailwind"]
+  },
+  {
+    "username": "apiMaster",
+    "userimage": "https://example.com/users/apiMaster.jpg",
+    "description": "RESTful API for a blog site with JWT auth.",
+    "price": 39.99,
+    "projectname": "Blog API",
+    "video": "https://example.com/videos/blog-api.mp4",
+    "file": {
+      "type": "doc",
+      "url": "https://example.com/files/blog-api.doc"
+    },
+    "projectimage": "/projectImage/project7.jpg",
+    "status": "incomplete",
+    "tags": ["express", "mongodb", "jwt"]
+  },
+  {
+    "username": "greenCoder",
+    "userimage": "https://example.com/users/greenCoder.png",
+    "description": "Weather app fetching data from OpenWeatherMap API.",
+    "price": 15.00,
+    "projectname": "Weather App",
+    "video": "https://example.com/videos/weather-app.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/weather-app.zip"
+    },
+    "projectimage": "/projectImage/project8.jpg",
+    "status": "complete",
+    "tags": ["react", "api"]
+  },
+  {
+    "username": "uiCraft",
+    "userimage": "https://example.com/users/uiCraft.jpg",
+    "description": "UI component library using Tailwind CSS.",
+    "price": 25.00,
+    "projectname": "Tailwind UI Kit",
+    "video": "https://example.com/videos/ui-kit.mp4",
+    "file": {
+      "type": "pdf",
+      "url": "https://example.com/files/ui-kit.pdf"
+    },
+    "projectimage": "/projectImage/project9.jpg",
+    "status": "complete",
+    "tags": ["tailwind", "component library"]
+  },
+  {
+    "username": "nextGenDev",
+    "userimage": "https://example.com/users/nextGenDev.jpg",
+    "description": "Full-stack Next.js e-commerce platform with Stripe integration.",
+    "price": 99.99,
+    "projectname": "NextCommerce",
+    "video": "https://example.com/videos/nextcommerce.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/nextcommerce.zip"
+    },
+    "projectimage": "/projectImage/project10.jpg",
+    "status": "complete",
+    "tags": ["next.js", "stripe", "mongodb"]
+  },
+  {
+    "username": "algoKing",
+    "userimage": "https://example.com/users/algoking.jpg",
+    "description": "C implementation of popular sorting algorithms with a visualizer.",
+    "price": 9.99,
+    "projectname": "Sorting Visualizer",
+    "video": "https://example.com/videos/sorting-visualizer.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/sorting-visualizer.zip"
+    },
+    "projectimage": "/projectImage/project11.jpg",
+    "status": "complete",
+    "tags": ["c", "algorithms"]
+  },
+  {
+    "username": "cppMaster",
+    "userimage": "https://example.com/users/cppmaster.jpg",
+    "description": "Bank management system using C++ with file handling.",
+    "price": 14.99,
+    "projectname": "Bank System CLI",
+    "video": "https://example.com/videos/bank-system.mp4",
+    "file": {
+      "type": "docx",
+      "url": "https://example.com/files/bank-system.docx"
+    },
+    "projectimage": "/projectImage/project12.jpg",
+    "status": "complete",
+    "tags": ["c++", "oop"]
+  },
+  {
+    "username": "pyGuru",
+    "userimage": "https://example.com/users/pyguru.png",
+    "description": "A Python-based web scraper that exports data to CSV.",
+    "price": 12.50,
+    "projectname": "Web Scraper",
+    "video": "https://example.com/videos/web-scraper.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/web-scraper.zip"
+    },
+    "projectimage": "/projectImage/project13.jpg",
+    "status": "complete",
+    "tags": ["python", "beautifulsoup", "requests"]
+  },
+  {
+    "username": "roboticsDev",
+    "userimage": "https://example.com/users/robotics.jpg",
+    "description": "Arduino robot controller logic written in C++.",
+    "price": 29.99,
+    "projectname": "Line Following Robot",
+    "video": "https://example.com/videos/line-follower.mp4",
+    "file": {
+      "type": "pdf",
+      "url": "https://example.com/files/line-follower.pdf"
+    },
+    "projectimage": "/projectImage/project14.jpg",
+    "status": "incomplete",
+    "tags": ["c++", "arduino"]
+  },
+  {
+    "username": "datasciGal",
+    "userimage": "https://example.com/users/datasci.png",
+    "description": "Data analysis project using Python and Pandas on climate data.",
+    "price": 22.00,
+    "projectname": "Climate Analysis",
+    "video": "https://example.com/videos/climate.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/climate.zip"
+    },
+    "projectimage": "/projectImage/project15.jpg",
+    "status": "complete",
+    "tags": ["python", "pandas", "matplotlib"]
+  },
+  {
+    "username": "sysCoder",
+    "userimage": "",
+    "description": "A C program that mimics shell commands on Linux.",
+    "price": 17.99,
+    "projectname": "Mini Shell",
+    "video": "https://example.com/videos/mini-shell.mp4",
+    "file": {
+      "type": "doc",
+      "url": "https://example.com/files/mini-shell.doc"
+    },
+    "projectimage": "/projectImage/project16.jpg",
+    "status": "complete",
+    "tags": ["c", "linux", "system programming"]
+  },
+  {
+    "username": "cvExpert",
+    "userimage": "",
+    "description": "Python OpenCV project to detect face emotions in real-time.",
+    "price": 34.50,
+    "projectname": "Emotion Detector",
+    "video": "https://example.com/videos/emotion-detector.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/emotion-detector.zip"
+    },
+    "projectimage": "/projectImage/project17.jpg",
+    "status": "complete",
+    "tags": ["python", "opencv"]
+  },
+  {
+    "username": "gameDevNerd",
+    "userimage": "https://example.com/users/gamenerd.jpg",
+    "description": "2D Snake game coded from scratch using C++ and SDL.",
+    "price": 19.99,
+    "projectname": "Snake Game",
+    "video": "https://example.com/videos/snake-game.mp4",
+    "file": {
+      "type": "pdf",
+      "url": "https://example.com/files/snake-game.pdf"
+    },
+    "projectimage": "/projectImage/project18.jpg",
+    "status": "complete",
+    "tags": ["c++", "sdl", "game"]
+  },
+  {
+    "username": "autoScriptor",
+    "userimage": "https://example.com/users/autoscriptor.png",
+    "description": "Python automation script to organize desktop files by type.",
+    "price": 4.99,
+    "projectname": "File Organizer",
+    "video": "https://example.com/videos/file-organizer.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/file-organizer.zip"
+    },
+    "projectimage": "/projectImage/project19.jpg",
+    "status": "complete",
+    "tags": ["python", "automation"]
+  },
+  {
+    "username": "mlRookie",
+    "userimage": "https://example.com/users/mlrookie.jpg",
+    "description": "Basic ML model in Python predicting house prices.",
+    "price": 11.49,
+    "projectname": "House Price Predictor",
+    "video": "https://example.com/videos/house-price.mp4",
+    "file": {
+      "type": "zip",
+      "url": "https://example.com/files/house-price.zip"
+    },
+    "projectimage": "/projectImage/project20.jpg",
+    "status": "incomplete",
+    "tags": ["python", "scikit-learn", "machine learning"]
+  }
+]

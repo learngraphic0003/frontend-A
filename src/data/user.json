@@ -1,0 +1,82 @@
+[
+  {
+    "username": "john_doe",
+    "email": "john.doe@example.com",
+    "password": "Password123!",
+    "image": "/UserImage/user1.jpg",
+    "phone": "123-456-7890",
+    "role": "user"
+  },
+  {
+    "username": "jane_smith",
+    "email": "jane.smith@example.com",
+    "password": "SecurePass456!",
+    "image": "/UserImage/user2.jpg",
+    "phone": "234-567-8901",
+    "role": "admin"
+  },
+  {
+    "username": "sarah_connor",
+    "email": "sarah.connor@example.com",
+    "password": "Skynet2025!",
+    "image": "/UserImage/user3.jpg",
+    "phone": "345-678-9012",
+    "role": "user"
+  },
+  {
+    "username": "mike_jones",
+    "email": "mike.jones@example.com",
+    "password": "MightyMike789!",
+    "image": "/UserImage/user4.jpg",
+    "phone": "456-789-0123",
+    "role": "admin"
+  },
+  {
+    "username": "lisa_williams",
+    "email": "lisa.williams@example.com",
+    "password": "PasswordLISA321!",
+    "image": "/UserImage/user5.jpg",
+    "phone": "567-890-1234",
+    "role": "user"
+  },
+  {
+    "username": "chris_brown",
+    "email": "chris.brown@example.com",
+    "password": "Brownie456!",
+    "image": "/UserImage/user6.jpg",
+    "phone": "678-901-2345",
+    "role": "admin"
+  },
+  {
+    "username": "david_lee",
+    "email": "david.lee@example.com",
+    "password": "David@Lee007",
+    "image": "/UserImage/user7.jpg",
+    "phone": "789-012-3456",
+    "role": "user"
+  },
+  {
+    "username": "emma_jones",
+    "email": "emma.jones@example.com",
+    "password": "Emma!789",
+    "image": "/UserImage/user8.jpg",
+    "phone": "890-123-4567",
+    "role": "admin"
+  },
+  {
+    "username": "alex_miller",
+    "email": "alex.miller@example.com",
+    "password": "Alex@Miller123",
+    "image": "/UserImage/user9.jpg",
+    "phone": "901-234-5678",
+    "role": "user"
+  },
+  {
+    "username": "olivia_davis",
+    "email": "a@gmail.com",
+    "password": "1234",
+    "image": "/UserImage/user10.jpg",
+    "phone": "012-345-6789",
+    "role": "admin"
+  }
+]

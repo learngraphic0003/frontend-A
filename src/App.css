@@ -1,0 +1,29 @@
+.upload-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    padding: 1rem;
+    margin-top: 12px;
+  }
+  
+  .frame {
+    background-color: #e9ffb1;
+    border-radius: 8px;
+    padding: 1rem 1rem;
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-wrapper {
+    color: #000;
+    font-family: "Inter", Helvetica, sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.4;
+    font-weight: 400;
+    word-break: break-word;
+  }
+  
+
+ 
