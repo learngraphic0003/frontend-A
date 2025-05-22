@@ -3,6 +3,7 @@ import axios from "axios";
 import Search from "./smallComponents/Search";
 import { Card } from "./smallComponents/Card";
 import projectsData from "../data/project.json";
+import { Server } from "../constant/constant";
 
 const SearchSection = () => {
   const [query, setQuery] = useState("");
@@ -13,7 +14,7 @@ const SearchSection = () => {
 
     const fetchProjects = async () => {
       try {
-        const response = await axios.get("http://localhost:8000/api/projects/all");
+        const response = await axios.get(`${Server}/api/projects/all`);
 
         const formatted = response.data.map((p) => ({
           _id: p._id, // ✅ REQUIRED for routing to project detail
